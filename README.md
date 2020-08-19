@@ -12,3 +12,6 @@ This is the deployment section
 
 ## How to contribute
 
+###Copyright
+copyright Git training 
+
