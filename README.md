@@ -8,6 +8,7 @@ This is example is to show different parts of the git repossitory  and various c
 This is the purpose section
 
 ## Deployment
+This is the deployment section
 
 ## How to contribute
 
